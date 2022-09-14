@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hummerrisk:
+  - apiVersion: v2
+    appVersion: v0.3.0
+    created: "2022-09-14T14:50:18.01811+08:00"
+    description: A Helm chart for Kubernetes
+    digest: cd28456f64fef673ead50997f45b673db22039fcb097d304f3c9887a4f310259
+    name: hummerrisk
+    type: application
+    urls:
+    - https://alvin5840.github.io/helm-repo/charts/hummerrisk-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-14T14:50:18.017569+08:00"
